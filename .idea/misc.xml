@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/demo-webapp/pom.xml" />
         <option value="$PROJECT_DIR$/esercizio-get-e-post/pom.xml" />
         <option value="$PROJECT_DIR$/Esercizio-Swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/Esercizio-Controller-con-Protezione-tramite-CORS/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

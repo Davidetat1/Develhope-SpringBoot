@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-webapp" />
         <module name="esercizio-get-e-post" />
         <module name="Esercizio-Swagger" />
+        <module name="demo-webapp" />
+        <module name="Esercizio-Controller-con-Protezione-tramite-CORS" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Esercizio-Controller-con-Protezione-tramite-CORS" options="-parameters" />
       <module name="Esercizio-Swagger" options="-parameters" />
       <module name="demo-web-app" options="-parameters" />
       <module name="demo-webapp" options="-parameters" />
