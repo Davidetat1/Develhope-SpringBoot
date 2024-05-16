@@ -10,6 +10,7 @@
         <module name="Esercizio-Swagger" />
         <module name="demo-webapp" />
         <module name="Esercizio-Controller-con-Protezione-tramite-CORS" />
+        <module name="esercizio-hibernate" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="demo-web-app" options="-parameters" />
       <module name="demo-webapp" options="-parameters" />
       <module name="esercizio-get-e-post" options="-parameters" />
+      <module name="esercizio-hibernate" options="-parameters" />
     </option>
   </component>
 </project>
