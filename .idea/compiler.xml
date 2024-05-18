@@ -8,9 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="esercizio-get-e-post" />
         <module name="esercizio-h2-mock" />
+        <module name="esercizio-Operazioni-Crud" />
+        <module name="Esercizio-Controller-con-Protezione-tramite-CORS" />
         <module name="Esercizio-Swagger" />
         <module name="demo-webapp" />
-        <module name="Esercizio-Controller-con-Protezione-tramite-CORS" />
         <module name="esercizio-hibernate" />
       </profile>
     </annotationProcessing>
@@ -24,6 +25,7 @@
       <module name="Esercizio-Swagger" options="-parameters" />
       <module name="demo-web-app" options="-parameters" />
       <module name="demo-webapp" options="-parameters" />
+      <module name="esercizio-Operazioni-Crud" options="-parameters" />
       <module name="esercizio-get-e-post" options="-parameters" />
       <module name="esercizio-h2-mock" options="-parameters" />
       <module name="esercizio-hibernate" options="-parameters" />

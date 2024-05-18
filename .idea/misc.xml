@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/Esercizio-Controller-con-Protezione-tramite-CORS/pom.xml" />
         <option value="$PROJECT_DIR$/esercizio-hibernate/pom.xml" />
         <option value="$PROJECT_DIR$/esercizio-h2-mock/pom.xml" />
+        <option value="$PROJECT_DIR$/esercizio-Operazioni-Crud/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
