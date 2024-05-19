@@ -12,6 +12,7 @@
         <module name="esercizio-Operazioni-Crud" />
         <module name="Esercizio-Controller-con-Protezione-tramite-CORS" />
         <module name="Esercizio-Swagger" />
+        <module name="esercizio-2-spring-repository" />
         <module name="demo-webapp" />
         <module name="esercizio-hibernate" />
       </profile>
@@ -26,6 +27,7 @@
       <module name="Esercizio-Swagger" options="-parameters" />
       <module name="demo-web-app" options="-parameters" />
       <module name="demo-webapp" options="-parameters" />
+      <module name="esercizio-2-spring-repository" options="-parameters" />
       <module name="esercizio-Operazioni-Crud" options="-parameters" />
       <module name="esercizio-get-e-post" options="-parameters" />
       <module name="esercizio-h2-mock" options="-parameters" />
