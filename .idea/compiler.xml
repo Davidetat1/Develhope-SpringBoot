@@ -12,6 +12,7 @@
         <module name="esercizio-Operazioni-Crud" />
         <module name="Esercizio-Controller-con-Protezione-tramite-CORS" />
         <module name="esercizio-test-crud" />
+        <module name="esercizio-unit-test" />
         <module name="Esercizio-Swagger" />
         <module name="esercizio-2-spring-repository" />
         <module name="demo-webapp" />
@@ -35,6 +36,7 @@
       <module name="esercizio-hibernate" options="-parameters" />
       <module name="esercizio-spring-repository" options="-parameters" />
       <module name="esercizio-test-crud" options="-parameters" />
+      <module name="esercizio-unit-test" options="-parameters" />
     </option>
   </component>
 </project>
