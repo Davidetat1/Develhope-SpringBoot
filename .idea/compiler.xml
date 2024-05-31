@@ -6,18 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="esercizio-get-e-post" />
         <module name="esercizio-spring-repository" />
-        <module name="esercizio-h2-mock" />
         <module name="esercizio-Operazioni-Crud" />
-        <module name="Esercizio-Controller-con-Protezione-tramite-CORS" />
-        <module name="Esercizio-api-interceptor-middleware-01" />
         <module name="esercizio-test-crud" />
         <module name="esercizio-unit-test" />
-        <module name="Esercizio-Swagger" />
-        <module name="esercizio-2-spring-repository" />
         <module name="demo-webapp" />
         <module name="esercizio-hibernate" />
+        <module name="esercizio-get-e-post" />
+        <module name="esercizio-h2-mock" />
+        <module name="esercizio-api-interceptor-middleware-02" />
+        <module name="Esercizio-Controller-con-Protezione-tramite-CORS" />
+        <module name="Esercizio-api-interceptor-middleware-01" />
+        <module name="Esercizio-Swagger" />
+        <module name="esercizio-2-spring-repository" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,6 +34,7 @@
       <module name="demo-webapp" options="-parameters" />
       <module name="esercizio-2-spring-repository" options="-parameters" />
       <module name="esercizio-Operazioni-Crud" options="-parameters" />
+      <module name="esercizio-api-interceptor-middleware-02" options="-parameters" />
       <module name="esercizio-get-e-post" options="-parameters" />
       <module name="esercizio-h2-mock" options="-parameters" />
       <module name="esercizio-hibernate" options="-parameters" />
