@@ -11,6 +11,7 @@
         <module name="esercizio-h2-mock" />
         <module name="esercizio-Operazioni-Crud" />
         <module name="Esercizio-Controller-con-Protezione-tramite-CORS" />
+        <module name="Esercizio-api-interceptor-middleware-01" />
         <module name="esercizio-test-crud" />
         <module name="esercizio-unit-test" />
         <module name="Esercizio-Swagger" />
@@ -27,6 +28,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Esercizio-Controller-con-Protezione-tramite-CORS" options="-parameters" />
       <module name="Esercizio-Swagger" options="-parameters" />
+      <module name="Esercizio-api-interceptor-middleware-01" options="-parameters" />
       <module name="demo-web-app" options="-parameters" />
       <module name="demo-webapp" options="-parameters" />
       <module name="esercizio-2-spring-repository" options="-parameters" />
