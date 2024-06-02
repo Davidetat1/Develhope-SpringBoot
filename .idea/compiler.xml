@@ -10,6 +10,7 @@
         <module name="esercizio-Operazioni-Crud" />
         <module name="esercizio-test-crud" />
         <module name="esercizio-unit-test" />
+        <module name="esercizio.api-custom-queries-02" />
         <module name="esercizio-Spring-Boot-custom-queries1" />
         <module name="demo-webapp" />
         <module name="esercizio-hibernate" />
@@ -43,6 +44,7 @@
       <module name="esercizio-spring-repository" options="-parameters" />
       <module name="esercizio-test-crud" options="-parameters" />
       <module name="esercizio-unit-test" options="-parameters" />
+      <module name="esercizio.api-custom-queries-02" options="-parameters" />
     </option>
   </component>
 </project>
