@@ -13,6 +13,7 @@
         <module name="esercizio.api-custom-queries-02" />
         <module name="esercizio-Spring-Boot-custom-queries1" />
         <module name="demo-webapp" />
+        <module name="esercizio-deploy-01" />
         <module name="esercizio-hibernate" />
         <module name="esercizio-get-e-post" />
         <module name="esercizio-h2-mock" />
@@ -38,6 +39,7 @@
       <module name="esercizio-Operazioni-Crud" options="-parameters" />
       <module name="esercizio-Spring-Boot-custom-queries1" options="-parameters" />
       <module name="esercizio-api-interceptor-middleware-02" options="-parameters" />
+      <module name="esercizio-deploy-01" options="-parameters" />
       <module name="esercizio-get-e-post" options="-parameters" />
       <module name="esercizio-h2-mock" options="-parameters" />
       <module name="esercizio-hibernate" options="-parameters" />
