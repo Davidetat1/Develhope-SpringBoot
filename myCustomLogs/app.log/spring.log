@@ -1,0 +1,21 @@
+2024-06-15T14:37:35.459+02:00  INFO 11220 --- [restartedMain] c.d.e.EsercizioServiziLoggingApplication : Starting EsercizioServiziLoggingApplication using Java 17.0.11 with PID 11220 (C:\Users\david\Desktop\Develhope-SpringBoot\esercizio-servizi-logging\target\classes started by david in C:\Users\david\Desktop\Develhope-SpringBoot)
+2024-06-15T14:37:35.462+02:00  INFO 11220 --- [restartedMain] c.d.e.EsercizioServiziLoggingApplication : The following 1 profile is active: "default"
+2024-06-15T14:37:35.568+02:00  INFO 11220 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-15T14:37:35.569+02:00  INFO 11220 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-15T14:37:37.149+02:00  INFO 11220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-06-15T14:37:37.166+02:00  INFO 11220 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-15T14:37:37.167+02:00  INFO 11220 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-15T14:37:37.244+02:00  INFO 11220 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-15T14:37:37.245+02:00  INFO 11220 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1674 ms
+2024-06-15T14:37:37.846+02:00  INFO 11220 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-06-15T14:37:37.884+02:00  INFO 11220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-06-15T14:37:37.896+02:00  INFO 11220 --- [restartedMain] c.d.e.EsercizioServiziLoggingApplication : Started EsercizioServiziLoggingApplication in 3.366 seconds (process running for 4.123)
+2024-06-15T14:37:45.165+02:00  INFO 11220 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-15T14:37:45.166+02:00  INFO 11220 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-06-15T14:37:45.167+02:00  INFO 11220 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-06-15T14:37:45.210+02:00  INFO 11220 --- [http-nio-8080-exec-1] c.d.e.controllers.BasicController        : Logger INFO message
+2024-06-15T14:37:57.373+02:00  INFO 11220 --- [http-nio-8080-exec-4] c.d.e.controllers.BasicController        : Logger INFO message: Starting calculation with base 2 and exponent 8
+2024-06-15T14:37:57.375+02:00 DEBUG 11220 --- [http-nio-8080-exec-4] c.d.e.services.MyService                 : Logger DEBUG Message: Starting calculation with base 2 and exponent 8
+2024-06-15T14:37:57.377+02:00 DEBUG 11220 --- [http-nio-8080-exec-4] c.d.e.services.MyService                 : Logger DEBUG Message: Calculation result: 256
+2024-06-15T14:37:57.377+02:00  INFO 11220 --- [http-nio-8080-exec-4] c.d.e.controllers.BasicController        : Logger INFO message: Calculation result: 256
+2024-06-15T14:39:10.041+02:00 ERROR 11220 --- [http-nio-8080-exec-7] c.d.e.services.MyService                 : Logger ERROR message: Custom error occurred!

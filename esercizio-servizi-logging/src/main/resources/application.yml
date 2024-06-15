@@ -1,0 +1,22 @@
+server:
+  port: 8080
+
+spring:
+  profiles:
+    active: default
+
+my:
+  custom:
+    env:
+      value1: 2
+      value2: 8
+
+logging:
+  file:
+    path: myCustomLogs/app.log
+  level:
+    root: INFO
+    co.develhopeq.esercizio_servizi_logging.services;: DEBUG
+  ansi:
+    enabled: ALWAYS
+

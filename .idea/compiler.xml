@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="esercizio-spring-repository" />
         <module name="esercizio-Operazioni-Crud" />
+        <module name="esercizio-servizi-logging" />
         <module name="esercizio-test-crud" />
         <module name="esercizio-spring-boot-environment-variables-02" />
         <module name="esercizio-spring-boot-environment-variables-01" />
@@ -47,6 +48,7 @@
       <module name="esercizio-get-e-post" options="-parameters" />
       <module name="esercizio-h2-mock" options="-parameters" />
       <module name="esercizio-hibernate" options="-parameters" />
+      <module name="esercizio-servizi-logging" options="-parameters" />
       <module name="esercizio-spring-boot-environment-variables-01" options="-parameters" />
       <module name="esercizio-spring-boot-environment-variables-02" options="-parameters" />
       <module name="esercizio-spring-repository" options="-parameters" />
